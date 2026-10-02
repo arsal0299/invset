@@ -4,9 +4,9 @@
 import { img } from "./images";
 
 export const profile = {
-  first: "Arslan",
+  first: "Mr.Arslan",
   name: "Muhammad Arslan",
-  logo: "arslan",
+  logo: "Mr.Arslan",
   role: "Full-Stack Developer, AI Engineer & Digital Creator",
   email: "marslan0299@gmail.com",
   phone: "+92 329 6521799",
